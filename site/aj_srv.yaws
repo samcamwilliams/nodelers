@@ -1,0 +1,5 @@
+<erl>
+out(A) ->
+	{_, FunID} = hd(yaws_api:parse_post(A)),
+	web_ajax_exec:process_fun(FunID, A).
+</erl>

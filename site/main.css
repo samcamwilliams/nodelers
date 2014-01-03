@@ -1,0 +1,188 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Noto Sans', sans-serif;
+	color: #2B2B2B;
+	min-height: 100%;
+}
+
+a {
+	text-decoration: none;
+	color: #2B2B2B;
+}
+
+/*Acronym*/
+
+#acronymbox {
+	border: 2px solid white;
+	margin: 5px 0 0 4px;
+	padding: 0 3px 0 3px;
+	display: inline-block;
+	float: left;
+	color: white;
+	font-weight: bold;
+	font-size: 10pt;
+}
+
+/*Content*/
+
+#content {
+	width: 90%;
+	min-height: 95%;
+	background: #F3F3F3;
+	margin: 10px auto 20px auto;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px 0px #CECECE;
+}
+
+#topbanner {
+	background: #D56930;
+	min-height: 30px;
+	border-radius: 3px 3px 0 0;
+}
+
+#pagetitle {
+	color: white; 
+	display: inline-block;
+	margin: 6px 0 0 5px;
+	float: left;
+	font-size: 11pt;
+}
+
+#pagetitle:hover {
+	cursor: pointer;
+}
+
+#about {
+	float: right;
+	display: inline-block;
+	font-size: 85%;
+	color: white;
+	margin: 5px 10px 0 0 ;
+}
+
+#about:hover {
+	cursor: pointer;
+}
+
+.listitem {
+	padding: 1px;
+}
+
+.rank {
+	margin-top: 5px;
+	display: table-cell;
+	float: left;
+	font-size: 20px;
+}
+
+.upicon {
+	opacity: 0.2	
+	filter:alpha(opacity=20);
+	max-height: 15px;
+	max-width: 15px;
+	display: table-cell;
+	margin: 10px 0 0 5px;
+	float: left;
+}
+
+.listitem .title {
+	display: inline-block;
+	font-size: 10pt;
+}
+
+.listitem .title:hover {
+	cursor: pointer;
+}
+
+.listitem .info {
+	display: inline-block;
+	margin-left: 5px;
+}
+
+.postdetails {
+	width: 100%;
+	font-size: 70%;
+}
+
+.subtitle, .authorname, .rank {
+	color: #9C9C9C;	
+}
+
+.subtitle {
+	font-size: 80%;
+}
+
+.pointscount, .desc, .commentscount, .authorname, .subtitle, .separator, .hourscount, #closex, .text {
+	display: inline-block;
+}
+
+#overlay {
+	min-width: 100%;
+	min-height: 100%;
+	background: gray;
+	z-index: 2;	
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: hsla(261, 0%, 41%, 0.6);
+	display: block;
+}
+
+#overlaycenter {
+	width: 50%;
+	padding: 1em;
+	background-color: white;
+	border-radius: 5px;
+	border: 1px solid black;
+	margin: 10% auto 0 auto;
+	text-align: center;
+}
+
+#overlaytitle {
+	font-size: 18pt;
+	border-bottom: 2px solid #D56930;
+	width: 4em;
+	margin: 0 auto 20px auto;
+}
+
+#overlaytext {
+	
+}
+
+#crossimg {
+	max-height: 15px;
+	max-width: 15px;
+	display: inline-block;
+	float: right;
+}
+
+#crossimg:hover {
+	cursor: pointer;
+}
+
+/*Intro blurb area*/
+
+#closex {
+	max-height: 11px;
+	max-width: 11px;
+	float: right;
+	margin: 2px 5px 0 0 ;
+	opacity: 0.7;
+}
+
+#closex:hover {
+	cursor: pointer;
+}
+
+.introtext {
+	width: 96%;
+	font-size: 11pt;
+	margin: 0 auto 0 auto;
+}
+
+#introcont {
+	border-bottom: 1px solid #C2C2C2;
+	background: #FFFBA6;
+	padding: 5px 0 5px 0;
+}

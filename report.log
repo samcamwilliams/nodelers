@@ -1,0 +1,1266 @@
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.169.0>: Born. Gender: male.
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.183.0>: Born. Gender: female.
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.187.0>: Born. Gender: male.
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.189.0>: Born. Gender: female.
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.193.0>: Born. Gender: female.
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.197.0>: Born. Gender: male.
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.201.0>: Born. Gender: female.
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.205.0>: Born. Gender: male.
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.217.0>: Born. Gender: female.
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.219.0>: Born. Gender: female.
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.221.0>: Born. Gender: female.
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.169.0> chose to {sleep,0.085}
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.183.0> chose to {sleep,0.06899999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.187.0> chose to {eat,grass,<0.185.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.189.0> chose to {move,{6,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.193.0> chose to {move,{6,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.205.0> chose to {move,{6,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.219.0> chose to {move,{10,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.221.0> chose to {move,{10,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.197.0> chose to {sleep,0.08}
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.201.0> chose to {move,{7,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:10 ===
+<0.217.0> chose to {eat,grass,<0.215.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.183.0> chose to {eat,grass,<0.181.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.187.0> chose to {sleep,0.039240000000000004}
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.219.0> chose to {move,{10,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.217.0> chose to {eat,grass,<0.215.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.169.0> chose to {sleep,0.08240000000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.193.0> chose to {sleep,0.029249999999999998}
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.201.0> chose to {move,{6,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.221.0> chose to {sleep,0.15099}
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.197.0> chose to {move,{8,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.189.0> chose to {eat,grass,<0.191.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.205.0>: Sex request accepted by <0.193.0>.
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.205.0> chose to {sex,<0.193.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.193.0>: Impregnated.
+
+=INFO REPORT==== 3-Jan-2014::00:35:16 ===
+<0.205.0> chose to {sleep,0.023}
+
+=INFO REPORT==== 3-Jan-2014::00:35:21 ===
+<0.183.0> chose to {eat,grass,<0.181.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:21 ===
+<0.187.0>: Sex request accepted by <0.201.0>.
+
+=INFO REPORT==== 3-Jan-2014::00:35:21 ===
+<0.187.0> chose to {sex,<0.201.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:21 ===
+<0.187.0> chose to {eat,grass,<0.185.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:21 ===
+<0.217.0> chose to {move,{10,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:21 ===
+<0.219.0> chose to {move,{9,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:21 ===
+<0.193.0> chose to {move,{7,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:22 ===
+<0.169.0> chose to {sleep,0.08205000000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:35:22 ===
+<0.201.0> chose to {move,{7,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:22 ===
+<0.189.0> chose to {eat,grass,<0.191.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:22 ===
+<0.221.0> chose to {move,{9,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:22 ===
+<0.201.0> chose to {move,{7,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:22 ===
+<0.197.0> chose to {move,{7,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:22 ===
+<0.205.0> chose to {sleep,0.02464}
+
+=INFO REPORT==== 3-Jan-2014::00:35:25 ===
+<0.183.0> chose to {move,{4,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:26 ===
+<0.187.0> chose to {sleep,0.05149}
+
+=INFO REPORT==== 3-Jan-2014::00:35:27 ===
+<0.217.0> chose to {sleep,0.15456000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:35:27 ===
+<0.219.0> chose to {sleep,0.13079999999999997}
+
+=INFO REPORT==== 3-Jan-2014::00:35:27 ===
+<0.169.0> chose to {move,{1,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:27 ===
+<0.189.0> chose to {sleep,0.05904000000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:35:27 ===
+<0.193.0> chose to {sleep,0.026879999999999994}
+
+=INFO REPORT==== 3-Jan-2014::00:35:27 ===
+<0.221.0> chose to {move,{8,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:28 ===
+<0.197.0> chose to {move,{6,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:28 ===
+<0.205.0> chose to {move,{5,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:28 ===
+<0.201.0> chose to {eat,grass,<0.195.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:31 ===
+<0.183.0> chose to {sleep,0.05789999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:35:32 ===
+<0.187.0> chose to {move,{7,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:32 ===
+<0.217.0> chose to {move,{10,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:32 ===
+<0.219.0> chose to {move,{8,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:33 ===
+<0.189.0> chose to {move,{7,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:33 ===
+<0.169.0> chose to {sleep,0.09015000000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:35:33 ===
+<0.193.0> chose to {sleep,0.04091999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:35:33 ===
+<0.221.0> chose to {sleep,0.14436000000000002}
+
+=INFO REPORT==== 3-Jan-2014::00:35:33 ===
+<0.197.0> chose to {sleep,0.08619000000000002}
+
+=INFO REPORT==== 3-Jan-2014::00:35:33 ===
+<0.201.0> chose to {eat,grass,<0.195.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:34 ===
+<0.205.0> chose to {sleep,0.0406}
+
+=INFO REPORT==== 3-Jan-2014::00:35:35 ===
+<0.183.0> chose to {sleep,0.10224}
+
+=INFO REPORT==== 3-Jan-2014::00:35:37 ===
+<0.187.0> chose to {sleep,0.05508000000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:35:37 ===
+<0.217.0> chose to {move,{10,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:38 ===
+<0.219.0> chose to {eat,grass,<0.209.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:38 ===
+<0.189.0> chose to {sleep,0.07463000000000002}
+
+=INFO REPORT==== 3-Jan-2014::00:35:38 ===
+<0.169.0> chose to {sleep,0.12999000000000002}
+
+=INFO REPORT==== 3-Jan-2014::00:35:38 ===
+<0.193.0> chose to {sleep,0.047959999999999996}
+
+=INFO REPORT==== 3-Jan-2014::00:35:38 ===
+<0.201.0> chose to {move,{8,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:39 ===
+<0.221.0> chose to {move,{8,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:39 ===
+<0.197.0> chose to {move,{7,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:39 ===
+<0.205.0> chose to {move,{5,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:40 ===
+<0.183.0> chose to {sleep,0.09724}
+
+=INFO REPORT==== 3-Jan-2014::00:35:42 ===
+<0.187.0> chose to {move,{6,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:42 ===
+<0.219.0> chose to {eat,grass,<0.209.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:43 ===
+<0.217.0> chose to {sleep,0.16608}
+
+=INFO REPORT==== 3-Jan-2014::00:35:43 ===
+<0.189.0> chose to {sleep,0.09639000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:35:43 ===
+<0.193.0> chose to {eat,grass,<0.203.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:43 ===
+<0.169.0> chose to {move,{2,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:44 ===
+<0.201.0> chose to {sleep,0.06795}
+
+=INFO REPORT==== 3-Jan-2014::00:35:44 ===
+<0.221.0> chose to {eat,grass,<0.207.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:45 ===
+<0.205.0> chose to {eat,grass,<0.181.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:45 ===
+<0.197.0>: Sex request accepted by <0.193.0>.
+
+=INFO REPORT==== 3-Jan-2014::00:35:45 ===
+<0.197.0> chose to {sex,<0.193.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:45 ===
+<0.183.0> chose to {move,{3,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:45 ===
+<0.219.0> chose to {move,{8,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:47 ===
+<0.187.0> chose to {eat,grass,<0.185.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:47 ===
+<0.193.0>: Sex request accepted by <0.197.0>.
+
+=INFO REPORT==== 3-Jan-2014::00:35:47 ===
+<0.193.0> chose to {sex,<0.197.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:48 ===
+<0.217.0> chose to {sleep,0.21459999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:35:48 ===
+<0.187.0> chose to {sleep,0.08717000000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:35:49 ===
+<0.189.0> chose to {sleep,0.07395}
+
+=INFO REPORT==== 3-Jan-2014::00:35:49 ===
+<0.169.0> chose to {move,{1,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:49 ===
+<0.183.0> chose to {sleep,0.12425000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:35:50 ===
+<0.205.0> chose to {sleep,0.06696}
+
+=INFO REPORT==== 3-Jan-2014::00:35:51 ===
+<0.219.0> chose to {move,{8,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:51 ===
+<0.197.0> chose to {sleep,0.10404000000000002}
+
+=INFO REPORT==== 3-Jan-2014::00:35:53 ===
+<0.193.0> chose to {eat,grass,<0.203.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:53 ===
+<0.193.0> chose to {eat,grass,<0.203.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:53 ===
+<0.187.0> chose to {sleep,0.059400000000000015}
+
+=INFO REPORT==== 3-Jan-2014::00:35:53 ===
+<0.217.0> chose to {sleep,0.19619999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:35:54 ===
+<0.189.0> chose to {eat,grass,<0.199.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:54 ===
+<0.169.0> chose to {eat,grass,<0.167.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:54 ===
+<0.183.0> chose to {sleep,0.11352000000000002}
+
+=INFO REPORT==== 3-Jan-2014::00:35:55 ===
+<0.205.0> chose to {sleep,0.07268}
+
+=INFO REPORT==== 3-Jan-2014::00:35:55 ===
+<0.193.0> chose to {eat,grass,<0.203.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:55 ===
+<0.193.0>: died.
+
+=ERROR REPORT==== 3-Jan-2014::00:35:55 ===
+Error in process <0.203.0> on node 'head-ND@GigaSPARK' with exit value: {badarith,[{nd_grass,loop,1,[{file,"src/nd_grass.erl"},{line,32}]}]}
+
+
+=INFO REPORT==== 3-Jan-2014::00:35:55 ===
+<0.219.0> chose to {move,{9,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:35:57 ===
+<0.189.0> chose to {eat,grass,<0.199.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:35:57 ===
+<0.187.0> chose to {sleep,0.10350000000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:35:57 ===
+<0.189.0> chose to {sleep,0.10560000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:35:58 ===
+<0.169.0> chose to {sleep,0.16848000000000002}
+
+=INFO REPORT==== 3-Jan-2014::00:35:58 ===
+<0.217.0> chose to {sleep,0.25851999999999997}
+
+=INFO REPORT==== 3-Jan-2014::00:35:59 ===
+<0.183.0> chose to {move,{3,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:00 ===
+<0.219.0> chose to {sleep,0.23758999999999988}
+
+=INFO REPORT==== 3-Jan-2014::00:36:00 ===
+<0.205.0> chose to {sleep,0.06680000000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:36:02 ===
+<0.187.0> chose to {eat,grass,<0.185.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:36:02 ===
+<0.189.0> chose to {sleep,0.11946000000000004}
+
+=ERROR REPORT==== 3-Jan-2014::00:36:02 ===
+Error in process <0.185.0> on node 'head-ND@GigaSPARK' with exit value: {badarith,[{nd_grass,loop,1,[{file,"src/nd_grass.erl"},{line,32}]}]}
+
+
+=INFO REPORT==== 3-Jan-2014::00:36:03 ===
+<0.169.0> chose to {sleep,0.18000000000000002}
+
+=INFO REPORT==== 3-Jan-2014::00:36:03 ===
+<0.183.0> chose to {sleep,0.09056000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:36:03 ===
+<0.217.0> chose to {move,{9,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:04 ===
+<0.219.0> chose to {sleep,0.19987999999999992}
+
+=INFO REPORT==== 3-Jan-2014::00:36:05 ===
+<0.205.0> chose to {move,{4,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:06 ===
+<0.189.0> chose to {sleep,0.09843}
+
+=INFO REPORT==== 3-Jan-2014::00:36:07 ===
+<0.169.0> chose to {eat,grass,<0.167.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:36:07 ===
+<0.169.0> chose to {sleep,0.15897000000000006}
+
+=INFO REPORT==== 3-Jan-2014::00:36:08 ===
+<0.217.0> chose to {eat,grass,<0.215.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:36:08 ===
+<0.183.0> chose to {sleep,0.09632000000000004}
+
+=INFO REPORT==== 3-Jan-2014::00:36:09 ===
+<0.219.0> chose to {move,{8,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:11 ===
+<0.205.0> chose to {sleep,0.07239}
+
+=INFO REPORT==== 3-Jan-2014::00:36:11 ===
+<0.189.0> chose to {sleep,0.12516000000000002}
+
+=INFO REPORT==== 3-Jan-2014::00:36:11 ===
+<0.217.0> chose to {eat,grass,<0.215.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:36:12 ===
+<0.217.0> chose to {eat,grass,<0.215.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:36:12 ===
+<0.217.0> chose to {eat,grass,<0.215.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:36:12 ===
+<0.183.0> chose to {sleep,0.11818000000000005}
+
+=INFO REPORT==== 3-Jan-2014::00:36:12 ===
+<0.169.0> chose to {sleep,0.14668000000000003}
+
+=ERROR REPORT==== 3-Jan-2014::00:36:12 ===
+Error in process <0.215.0> on node 'head-ND@GigaSPARK' with exit value: {badarith,[{nd_grass,loop,1,[{file,"src/nd_grass.erl"},{line,32}]}]}
+
+
+=INFO REPORT==== 3-Jan-2014::00:36:13 ===
+<0.219.0> chose to {sleep,0.17647999999999994}
+
+=INFO REPORT==== 3-Jan-2014::00:36:15 ===
+<0.189.0> chose to {move,{7,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:15 ===
+<0.205.0> chose to {move,{3,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:17 ===
+<0.183.0> chose to {sleep,0.15360000000000004}
+
+=INFO REPORT==== 3-Jan-2014::00:36:17 ===
+<0.169.0> chose to {eat,grass,<0.167.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:36:18 ===
+<0.219.0> chose to {sleep,0.23582999999999993}
+
+=INFO REPORT==== 3-Jan-2014::00:36:19 ===
+<0.169.0> chose to {sleep,0.14526000000000006}
+
+=INFO REPORT==== 3-Jan-2014::00:36:21 ===
+<0.183.0> chose to {sleep,0.13818000000000005}
+
+=INFO REPORT==== 3-Jan-2014::00:36:21 ===
+<0.205.0> chose to {sleep,0.10464}
+
+=INFO REPORT==== 3-Jan-2014::00:36:22 ===
+<0.219.0> chose to {sleep,0.2624299999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:36:23 ===
+<0.169.0> chose to {eat,grass,<0.167.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:36:23 ===
+<0.169.0>: died.
+
+=ERROR REPORT==== 3-Jan-2014::00:36:23 ===
+Error in process <0.167.0> on node 'head-ND@GigaSPARK' with exit value: {badarith,[{nd_grass,loop,1,[{file,"src/nd_grass.erl"},{line,32}]}]}
+
+
+=INFO REPORT==== 3-Jan-2014::00:36:26 ===
+<0.183.0> chose to {sleep,0.11832000000000004}
+
+=INFO REPORT==== 3-Jan-2014::00:36:26 ===
+<0.205.0> chose to {move,{2,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:27 ===
+<0.219.0> chose to {sleep,0.2089799999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:36:29 ===
+<0.183.0> chose to {move,{4,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:31 ===
+<0.219.0> chose to {move,{9,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:31 ===
+<0.205.0> chose to {sleep,0.08296000000000002}
+
+=INFO REPORT==== 3-Jan-2014::00:36:34 ===
+<0.183.0> chose to {move,{5,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:35 ===
+<0.219.0> chose to {move,{10,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:35 ===
+<0.205.0> chose to {sleep,0.11110000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:36:37 ===
+<0.183.0> chose to {move,{4,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:39 ===
+<0.219.0> chose to {move,{9,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:41 ===
+<0.205.0> chose to {eat,grass,<0.171.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:36:42 ===
+<0.183.0> chose to {move,{3,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:43 ===
+<0.205.0> chose to {sleep,0.08704000000000002}
+
+=INFO REPORT==== 3-Jan-2014::00:36:44 ===
+<0.219.0> chose to {move,{8,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:45 ===
+<0.183.0> chose to {move,{2,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:48 ===
+<0.205.0> chose to {move,{1,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:48 ===
+<0.219.0> chose to {sleep,0.2791799999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:36:50 ===
+<0.183.0> chose to {move,{1,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:52 ===
+<0.219.0> chose to {sleep,0.20591999999999988}
+
+=INFO REPORT==== 3-Jan-2014::00:36:52 ===
+<0.205.0>: Sex request accepted by <0.183.0>.
+
+=INFO REPORT==== 3-Jan-2014::00:36:52 ===
+<0.205.0> chose to {sex,<0.183.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:36:52 ===
+<0.183.0>: Impregnated.
+
+=INFO REPORT==== 3-Jan-2014::00:36:53 ===
+<0.205.0> chose to {move,{1,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:55 ===
+<0.183.0> chose to {sleep,0.15048000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:36:56 ===
+<0.219.0> chose to {move,{9,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:58 ===
+<0.205.0> chose to {sleep,0.10455000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:36:59 ===
+<0.183.0> chose to {move,{1,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:36:59 ===
+<0.219.0> chose to {sleep,0.26439999999999986}
+
+=INFO REPORT==== 3-Jan-2014::00:37:02 ===
+<0.205.0>: Sex request accepted by <0.183.0>.
+
+=INFO REPORT==== 3-Jan-2014::00:37:02 ===
+<0.205.0> chose to {sex,<0.183.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:37:02 ===
+<0.183.0>: Sex request accepted by <0.205.0>.
+
+=INFO REPORT==== 3-Jan-2014::00:37:02 ===
+<0.183.0> chose to {sex,<0.205.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:37:04 ===
+<0.219.0> chose to {move,{10,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:37:06 ===
+<0.205.0> chose to {sleep,0.14322000000000004}
+
+=INFO REPORT==== 3-Jan-2014::00:37:07 ===
+<0.183.0> chose to {sex,<0.205.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:37:08 ===
+<0.219.0> chose to {move,{10,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:37:10 ===
+<0.205.0> chose to {sleep,0.10720000000000006}
+
+=INFO REPORT==== 3-Jan-2014::00:37:10 ===
+<0.183.0> chose to {move,{2,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:37:11 ===
+<0.219.0> chose to {sleep,0.34799999999999975}
+
+=INFO REPORT==== 3-Jan-2014::00:37:14 ===
+<0.183.0> chose to {sleep,0.20548000000000005}
+
+=INFO REPORT==== 3-Jan-2014::00:37:14 ===
+<0.205.0> chose to {sleep,0.13395000000000007}
+
+=INFO REPORT==== 3-Jan-2014::00:37:16 ===
+<0.219.0> chose to {sleep,0.21164999999999984}
+
+=INFO REPORT==== 3-Jan-2014::00:37:18 ===
+<0.219.0> chose to {sleep,0.2855999999999998}
+
+=INFO REPORT==== 3-Jan-2014::00:37:19 ===
+<0.183.0> chose to {move,{2,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:37:19 ===
+<0.205.0> chose to {move,{2,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:37:22 ===
+<0.183.0> chose to {eat,grass,<0.171.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:37:22 ===
+<0.183.0>: died.
+
+=INFO REPORT==== 3-Jan-2014::00:37:22 ===
+<0.205.0> chose to {move,{1,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:37:23 ===
+<0.219.0> chose to {move,{9,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:37:27 ===
+<0.205.0> chose to {move,{2,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:37:30 ===
+<0.205.0> chose to {move,{3,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:37:35 ===
+<0.205.0> chose to {move,{3,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:37:37 ===
+<0.205.0> chose to {move,{4,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:37:42 ===
+<0.205.0> chose to {sleep,0.1567500000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:37:47 ===
+<0.205.0> chose to {sleep,0.1517400000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:37:49 ===
+<0.205.0> chose to {sleep,0.1544400000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:37:54 ===
+<0.205.0> chose to {sleep,0.1312500000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:37:58 ===
+<0.205.0> chose to {sleep,0.22750000000000015}
+
+=INFO REPORT==== 3-Jan-2014::00:38:00 ===
+<0.205.0> chose to {sleep,0.21840000000000012}
+
+=INFO REPORT==== 3-Jan-2014::00:38:05 ===
+<0.205.0> chose to {sleep,0.2134400000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:38:07 ===
+<0.205.0> chose to {move,{3,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:38:11 ===
+<0.205.0> chose to {sleep,0.18278000000000008}
+
+=INFO REPORT==== 3-Jan-2014::00:38:16 ===
+<0.205.0> chose to {sleep,0.17658000000000007}
+
+=INFO REPORT==== 3-Jan-2014::00:38:17 ===
+<0.205.0> chose to {move,{2,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:38:22 ===
+<0.205.0> chose to {eat,grass,<0.171.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:38:22 ===
+<0.205.0>: died.
+
+=ERROR REPORT==== 3-Jan-2014::00:38:22 ===
+Error in process <0.171.0> on node 'head-ND@GigaSPARK' with exit value: {badarith,[{nd_grass,loop,1,[{file,"src/nd_grass.erl"},{line,32}]}]}
+
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.181.0>: Born. Gender: male.
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.189.0>: Born. Gender: male.
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.193.0>: Born. Gender: female.
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.199.0>: Born. Gender: male.
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.203.0>: Born. Gender: male.
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.207.0>: Born. Gender: female.
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.215.0>: Born. Gender: female.
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.181.0> chose to {sleep,0.216}
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.193.0> chose to {move,{4,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.189.0> chose to {eat,grass,<0.187.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.207.0> chose to {sleep,0.133}
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.199.0> chose to {move,{7,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.203.0> chose to {move,{6,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:42:46 ===
+<0.215.0> chose to {eat,grass,<0.213.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:42:51 ===
+<0.189.0> chose to {move,{2,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:42:52 ===
+<0.215.0> chose to {eat,grass,<0.213.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:42:52 ===
+<0.181.0> chose to {sleep,0.13785}
+
+=INFO REPORT==== 3-Jan-2014::00:42:52 ===
+<0.207.0> chose to {move,{7,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:42:52 ===
+<0.203.0> chose to {sleep,0.063}
+
+=INFO REPORT==== 3-Jan-2014::00:42:52 ===
+<0.199.0> chose to {sleep,0.14688}
+
+=INFO REPORT==== 3-Jan-2014::00:42:52 ===
+<0.193.0> chose to {sleep,0.017849999999999998}
+
+=INFO REPORT==== 3-Jan-2014::00:42:57 ===
+<0.215.0> chose to {sleep,0.02584}
+
+=INFO REPORT==== 3-Jan-2014::00:42:57 ===
+<0.189.0>: Sex request accepted by <0.181.0>.
+
+=INFO REPORT==== 3-Jan-2014::00:42:57 ===
+<0.189.0> chose to {sex,<0.181.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:42:57 ===
+<0.181.0> chose to {move,{1,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:42:57 ===
+<0.189.0> chose to {move,{3,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:42:57 ===
+<0.203.0> chose to {move,{6,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:42:57 ===
+<0.199.0> chose to {move,{8,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:42:57 ===
+<0.207.0> chose to {sleep,0.18}
+
+=INFO REPORT==== 3-Jan-2014::00:42:58 ===
+<0.193.0> chose to {sleep,0.03297}
+
+=INFO REPORT==== 3-Jan-2014::00:43:02 ===
+<0.215.0> chose to {eat,grass,<0.213.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:43:03 ===
+<0.181.0> chose to {sleep,0.20432999999999998}
+
+=INFO REPORT==== 3-Jan-2014::00:43:03 ===
+<0.189.0> chose to {move,{2,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:03 ===
+<0.207.0> chose to {move,{6,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:03 ===
+<0.199.0> chose to {sleep,0.16454}
+
+=INFO REPORT==== 3-Jan-2014::00:43:03 ===
+<0.203.0> chose to {move,{6,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:03 ===
+<0.193.0> chose to {move,{3,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:05 ===
+<0.215.0> chose to {sleep,0.030879999999999998}
+
+=INFO REPORT==== 3-Jan-2014::00:43:08 ===
+<0.181.0> chose to {sleep,0.15134999999999996}
+
+=INFO REPORT==== 3-Jan-2014::00:43:08 ===
+<0.189.0> chose to {sleep,0.0165}
+
+=INFO REPORT==== 3-Jan-2014::00:43:09 ===
+<0.199.0> chose to {move,{7,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:09 ===
+<0.203.0> chose to {sleep,0.08}
+
+=INFO REPORT==== 3-Jan-2014::00:43:09 ===
+<0.193.0> chose to {move,{2,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:09 ===
+<0.207.0> chose to {move,{7,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:10 ===
+<0.215.0> chose to {sleep,0.05087999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:43:13 ===
+<0.181.0> chose to {sleep,0.18737999999999996}
+
+=INFO REPORT==== 3-Jan-2014::00:43:14 ===
+<0.189.0> chose to {move,{3,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:14 ===
+<0.203.0> chose to {sleep,0.07524}
+
+=INFO REPORT==== 3-Jan-2014::00:43:14 ===
+<0.199.0> chose to {sleep,0.15946}
+
+=INFO REPORT==== 3-Jan-2014::00:43:14 ===
+<0.207.0> chose to {move,{6,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:14 ===
+<0.215.0> chose to {move,{9,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:15 ===
+<0.193.0> chose to {sleep,0.055499999999999994}
+
+=INFO REPORT==== 3-Jan-2014::00:43:19 ===
+<0.181.0> chose to {move,{2,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:19 ===
+<0.215.0> chose to {sleep,0.03945}
+
+=INFO REPORT==== 3-Jan-2014::00:43:19 ===
+<0.189.0> chose to {move,{4,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:19 ===
+<0.203.0> chose to {move,{7,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:19 ===
+<0.199.0> chose to {move,{7,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:20 ===
+<0.207.0> chose to {move,{6,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:20 ===
+<0.193.0> chose to {move,{1,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:23 ===
+<0.215.0> chose to {move,{10,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:24 ===
+<0.181.0> chose to {move,{1,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:24 ===
+<0.189.0> chose to {sleep,0.03185999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:43:25 ===
+<0.203.0> chose to {sleep,0.0752}
+
+=INFO REPORT==== 3-Jan-2014::00:43:25 ===
+<0.199.0> chose to {move,{6,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:25 ===
+<0.207.0> chose to {sleep,0.19645999999999997}
+
+=INFO REPORT==== 3-Jan-2014::00:43:25 ===
+<0.193.0> chose to {sleep,0.05419999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:43:28 ===
+<0.215.0> chose to {sleep,0.045149999999999996}
+
+=INFO REPORT==== 3-Jan-2014::00:43:29 ===
+<0.181.0> chose to {eat,grass,<0.169.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:43:30 ===
+<0.189.0> chose to {move,{3,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:30 ===
+<0.203.0> chose to {sleep,0.12725000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:43:30 ===
+<0.207.0> chose to {move,{5,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:30 ===
+<0.199.0> chose to {move,{6,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:31 ===
+<0.193.0> chose to {sleep,0.05201999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:43:32 ===
+<0.181.0> chose to {sleep,0.23645999999999998}
+
+=INFO REPORT==== 3-Jan-2014::00:43:32 ===
+<0.215.0> chose to {sleep,0.06402999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:43:35 ===
+<0.189.0> chose to {move,{2,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:35 ===
+<0.203.0> chose to {move,{6,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:35 ===
+<0.199.0> chose to {move,{5,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:36 ===
+<0.207.0> chose to {move,{5,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:36 ===
+<0.215.0> chose to {move,{9,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:36 ===
+<0.193.0> chose to {sleep,0.05886}
+
+=INFO REPORT==== 3-Jan-2014::00:43:36 ===
+<0.181.0> chose to {eat,grass,<0.169.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:43:39 ===
+<0.189.0> chose to {move,{3,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:40 ===
+<0.199.0> chose to {eat,grass,<0.191.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:43:41 ===
+<0.215.0> chose to {move,{10,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:41 ===
+<0.203.0> chose to {sleep,0.10374000000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:43:41 ===
+<0.181.0> chose to {eat,grass,<0.169.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:43:41 ===
+<0.207.0> chose to {sleep,0.20264999999999997}
+
+=ERROR REPORT==== 3-Jan-2014::00:43:41 ===
+Error in process <0.169.0> on node 'head-ND@GigaSPARK' with exit value: {badarith,[{nd_grass,loop,1,[{file,"src/nd_grass.erl"},{line,32}]}]}
+
+
+=INFO REPORT==== 3-Jan-2014::00:43:41 ===
+<0.193.0> chose to {move,{2,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:43 ===
+<0.199.0> chose to {eat,grass,<0.191.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:43:45 ===
+<0.189.0> chose to {move,{2,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:45 ===
+<0.215.0> chose to {sleep,0.06646999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:43:45 ===
+<0.199.0> chose to {sleep,0.22512}
+
+=INFO REPORT==== 3-Jan-2014::00:43:45 ===
+<0.203.0> chose to {move,{5,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:45 ===
+<0.207.0> chose to {move,{6,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:47 ===
+<0.193.0> chose to {eat,grass,<0.175.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:43:49 ===
+<0.215.0> chose to {sleep,0.08199999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:43:49 ===
+<0.193.0> chose to {eat,grass,<0.175.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:43:49 ===
+<0.189.0> chose to {sleep,0.060599999999999994}
+
+=INFO REPORT==== 3-Jan-2014::00:43:50 ===
+<0.193.0> chose to {sleep,0.0561}
+
+=INFO REPORT==== 3-Jan-2014::00:43:50 ===
+<0.199.0> chose to {sleep,0.24375999999999998}
+
+=INFO REPORT==== 3-Jan-2014::00:43:51 ===
+<0.203.0> chose to {move,{6,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:43:51 ===
+<0.207.0> chose to {sleep,0.2435999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:43:53 ===
+<0.215.0> chose to {sleep,0.09282}
+
+=INFO REPORT==== 3-Jan-2014::00:43:54 ===
+<0.199.0> chose to {sleep,0.19141999999999995}
+
+=INFO REPORT==== 3-Jan-2014::00:43:55 ===
+<0.193.0> chose to {sleep,0.07379999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:43:55 ===
+<0.189.0> chose to {eat,grass,<0.177.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:43:55 ===
+<0.203.0> chose to {sleep,0.12200000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:43:55 ===
+<0.207.0> chose to {sleep,0.2577499999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:43:57 ===
+<0.215.0> chose to {sleep,0.07802999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:43:58 ===
+<0.189.0> chose to {eat,grass,<0.177.0>}
+
+=ERROR REPORT==== 3-Jan-2014::00:43:58 ===
+Error in process <0.177.0> on node 'head-ND@GigaSPARK' with exit value: {badarith,[{nd_grass,loop,1,[{file,"src/nd_grass.erl"},{line,32}]}]}
+
+
+=INFO REPORT==== 3-Jan-2014::00:43:59 ===
+<0.193.0> chose to {eat,grass,<0.175.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:43:59 ===
+<0.199.0> chose to {sleep,0.19447999999999996}
+
+=INFO REPORT==== 3-Jan-2014::00:44:00 ===
+<0.203.0> chose to {sleep,0.11016000000000001}
+
+=INFO REPORT==== 3-Jan-2014::00:44:01 ===
+<0.207.0> chose to {sleep,0.20234999999999995}
+
+=INFO REPORT==== 3-Jan-2014::00:44:01 ===
+<0.215.0> chose to {sleep,0.08108999999999998}
+
+=INFO REPORT==== 3-Jan-2014::00:44:02 ===
+<0.193.0> chose to {move,{1,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:03 ===
+<0.199.0> chose to {move,{6,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:05 ===
+<0.203.0> chose to {sleep,0.10005000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:44:05 ===
+<0.207.0> chose to {sleep,0.16244999999999996}
+
+=INFO REPORT==== 3-Jan-2014::00:44:05 ===
+<0.215.0> chose to {sleep,0.09366999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:44:07 ===
+<0.199.0> chose to {move,{6,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:09 ===
+<0.215.0> chose to {sleep,0.09197999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:44:09 ===
+<0.203.0> chose to {sleep,0.11679000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:44:10 ===
+<0.207.0> chose to {move,{7,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:12 ===
+<0.199.0> chose to {sleep,0.24259999999999995}
+
+=INFO REPORT==== 3-Jan-2014::00:44:13 ===
+<0.215.0> chose to {sleep,0.12166999999999996}
+
+=INFO REPORT==== 3-Jan-2014::00:44:15 ===
+<0.203.0> chose to {sleep,0.14420000000000002}
+
+=INFO REPORT==== 3-Jan-2014::00:44:15 ===
+<0.207.0> chose to {sleep,0.19396999999999992}
+
+=INFO REPORT==== 3-Jan-2014::00:44:16 ===
+<0.199.0> chose to {sleep,0.22103999999999996}
+
+=INFO REPORT==== 3-Jan-2014::00:44:17 ===
+<0.215.0> chose to {move,{10,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:19 ===
+<0.203.0> chose to {sleep,0.18450000000000005}
+
+=INFO REPORT==== 3-Jan-2014::00:44:20 ===
+<0.207.0> chose to {sleep,0.21131999999999992}
+
+=INFO REPORT==== 3-Jan-2014::00:44:20 ===
+<0.215.0> chose to {move,{9,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:21 ===
+<0.199.0> chose to {sleep,0.25239999999999996}
+
+=INFO REPORT==== 3-Jan-2014::00:44:24 ===
+<0.203.0> chose to {move,{5,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:24 ===
+<0.207.0> chose to {sleep,0.2377999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:44:24 ===
+<0.199.0> chose to {sleep,0.32049999999999995}
+
+=INFO REPORT==== 3-Jan-2014::00:44:25 ===
+<0.215.0> chose to {sleep,0.10799999999999998}
+
+=INFO REPORT==== 3-Jan-2014::00:44:28 ===
+<0.215.0> chose to {eat,grass,<0.213.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:44:28 ===
+<0.215.0>: died.
+
+=INFO REPORT==== 3-Jan-2014::00:44:28 ===
+<0.203.0> chose to {sleep,0.11565000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:44:29 ===
+<0.199.0> chose to {move,{6,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:29 ===
+<0.207.0> chose to {eat,grass,<0.201.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:44:31 ===
+<0.207.0> chose to {move,{6,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:32 ===
+<0.199.0> chose to {sleep,0.3165599999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:44:33 ===
+<0.203.0> chose to {sleep,0.19368000000000005}
+
+=INFO REPORT==== 3-Jan-2014::00:44:35 ===
+<0.207.0> chose to {sleep,0.23597999999999988}
+
+=INFO REPORT==== 3-Jan-2014::00:44:37 ===
+<0.199.0> chose to {move,{6,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:37 ===
+<0.203.0> chose to {move,{5,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:39 ===
+<0.207.0> chose to {sleep,0.2145399999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:44:41 ===
+<0.199.0> chose to {move,{5,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:42 ===
+<0.203.0> chose to {move,{5,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:44 ===
+<0.207.0> chose to {move,{6,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:44 ===
+<0.199.0> chose to {eat,grass,<0.195.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:44:45 ===
+<0.203.0> chose to {sleep,0.18018000000000003}
+
+=INFO REPORT==== 3-Jan-2014::00:44:47 ===
+<0.199.0> chose to {eat,grass,<0.195.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:44:47 ===
+<0.199.0>: died.
+
+=ERROR REPORT==== 3-Jan-2014::00:44:47 ===
+Error in process <0.195.0> on node 'head-ND@GigaSPARK' with exit value: {badarith,[{nd_grass,loop,1,[{file,"src/nd_grass.erl"},{line,32}]}]}
+
+
+=INFO REPORT==== 3-Jan-2014::00:44:47 ===
+<0.207.0> chose to {sleep,0.32399999999999984}
+
+=INFO REPORT==== 3-Jan-2014::00:44:50 ===
+<0.203.0> chose to {eat,grass,<0.197.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:44:50 ===
+<0.207.0> chose to {move,{6,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:52 ===
+<0.203.0> chose to {move,{6,5}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:55 ===
+<0.207.0> chose to {move,{7,3}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:56 ===
+<0.203.0> chose to {move,{5,4}}
+
+=INFO REPORT==== 3-Jan-2014::00:44:59 ===
+<0.203.0> chose to {eat,grass,<0.197.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:45:00 ===
+<0.207.0> chose to {move,{7,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:45:01 ===
+<0.203.0> chose to {eat,grass,<0.197.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:45:01 ===
+<0.203.0>: died.
+
+=ERROR REPORT==== 3-Jan-2014::00:45:01 ===
+Error in process <0.197.0> on node 'head-ND@GigaSPARK' with exit value: {badarith,[{nd_grass,loop,1,[{file,"src/nd_grass.erl"},{line,32}]}]}
+
+
+=INFO REPORT==== 3-Jan-2014::00:45:02 ===
+<0.207.0> chose to {sleep,0.2623899999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:45:07 ===
+<0.207.0> chose to {move,{6,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:45:10 ===
+<0.207.0> chose to {move,{5,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:45:14 ===
+<0.207.0> chose to {move,{6,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:45:17 ===
+<0.207.0> chose to {sleep,0.24666999999999986}
+
+=INFO REPORT==== 3-Jan-2014::00:45:21 ===
+<0.207.0> chose to {sleep,0.2933999999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:45:25 ===
+<0.207.0> chose to {move,{7,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:45:27 ===
+<0.207.0> chose to {sleep,0.2846199999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:45:32 ===
+<0.207.0> chose to {move,{8,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:45:34 ===
+<0.207.0> chose to {move,{7,1}}
+
+=INFO REPORT==== 3-Jan-2014::00:45:38 ===
+<0.207.0> chose to {move,{8,2}}
+
+=INFO REPORT==== 3-Jan-2014::00:45:43 ===
+<0.207.0> chose to {sleep,0.3912499999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:45:44 ===
+<0.207.0> chose to {sleep,0.2534399999999999}
+
+=INFO REPORT==== 3-Jan-2014::00:45:48 ===
+<0.207.0> chose to {sleep,0.32079999999999986}
+
+=INFO REPORT==== 3-Jan-2014::00:45:53 ===
+<0.207.0> chose to {eat,grass,<0.209.0>}
+
+=INFO REPORT==== 3-Jan-2014::00:45:53 ===
+<0.207.0>: died.

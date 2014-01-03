@@ -1,0 +1,44 @@
+<erl>
+
+out(A) ->
+	{ehtml,
+		{html, [],
+			[
+				{head, [],
+					[
+						{title, [], ["nodelers: living your dreams, so you don't have to."]},
+						{script, [{type, "text/javascript"}], [ejs:eval(web_ajax:base())]},
+						{'link',
+							[{rel, "stylesheet"},{type, "text/css"}, {href, "main.css"}], []
+						},
+						{script, [{type, "text/javascript"}],
+							[
+								ejs:eval(
+									{
+										[setInterval],
+										[
+											{function, [],
+												[
+													web_ajax:request(
+														fun() ->
+															{to, "displayarea", nd_page:display()}
+														end
+													)
+												]
+											},
+											1000
+										]
+									}
+								)
+							]
+						}
+					]
+				},
+				{body, [],
+					nd_page:main(A)
+				}
+			]
+		}
+	}.
+
+</erl>
